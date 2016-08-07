@@ -1,0 +1,7 @@
+Approach used: Majority
+
+spam as spam =  72%
+spam as jenuine = 28%
+jenuine  as jenuine = 82%
+jenuine as spam = 18 %
+
